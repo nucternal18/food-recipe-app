@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "food-recipe-app",
-    "slug": "food-recipe-app",
+    "name": "FoodRecipeApp",
+    "slug": "FoodRecipeApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
